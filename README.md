@@ -10,9 +10,9 @@
 
 ## 파이썬 
 
-'''python
+```python
 print("Hello World")
-'''
+```
 
 
 
